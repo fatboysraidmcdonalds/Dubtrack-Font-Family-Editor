@@ -7,6 +7,6 @@ void(
 				$element.css("font-family",$font == "icomoon" ? "icomoon" : font);
 			});
 		}
-		FONT_FAMILY("initial");
+		FONT_FAMILY("initial"); 
 	}())
 );
