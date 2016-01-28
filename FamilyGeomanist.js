@@ -4,7 +4,7 @@ void(
 			jQuery("*").each(function(){
 				$element = jQuery(this);
 				$font = $element.css("font-family");
-				$element.css("font-family",$font == "icomoon" ? "icomoon" : font);
+				$element.css("font-family",$font == "icomoon" ? "icomoon" : font); 
 			});
 		}
 		FONT_FAMILY("geomanist");
