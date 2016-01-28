@@ -7,6 +7,6 @@ void(
 				$element.css("font-family",$font == "icomoon" ? "icomoon" : font); 
 			}); 
 		}
-		FONT_FAMILY("sans-serif");
+		FONT_FAMILY("proxima-nova");
 	}())
 );
