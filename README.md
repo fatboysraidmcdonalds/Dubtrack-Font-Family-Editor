@@ -6,8 +6,8 @@ Run the script (open one of the below Bookmark links, copy the text on that page
 
 # Font-Family: "proxima-nova"
 This is the font Dubtrack used before the update, use this if you want the old Dubtrack font look <br />
-<a href="https://rawgit.com/fatboysraidmcdonalds/Dubtrack-Font-Family-Editor/master/Bookmark-FamilyProxima-Nova.js" target="_blank">Bookmark</a>
+<a href="https://rawgit.com/fatboysraidmcdonalds/Dubtrack-Font-Family-Editor/master/Bookmark_FamilyProxima-Nova.js" target="_blank">Bookmark</a>
 
 # Font-Family: "initial"
 This is a rather plain font, but people like this font because it makes a capital "i" and a lowercase "L" distinguishable <br />
-<a href="https://rawgit.com/fatboysraidmcdonalds/Dubtrack-Font-Family-Editor/master/Bookmark-FamilyInitial.js" target="_blank">Bookmark</a>
+<a href="https://rawgit.com/fatboysraidmcdonalds/Dubtrack-Font-Family-Editor/master/Bookmark_FamilyInitial.js" target="_blank">Bookmark</a>
